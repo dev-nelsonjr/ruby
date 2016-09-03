@@ -1,6 +1,6 @@
 # Roman Numerals
 
-Write a function to convert from normal numbers to Roman Numerals: e.g.
+Write a function to convert from normal numbers to Roman Numerals.
 
 The Romans were a clever bunch. They conquered most of Europe and ruled
 it for hundreds of years. They invented concrete and straight roads and
@@ -45,3 +45,5 @@ See also: http://www.novaroma.org/via_romana/numbers.html
 ## Source
 
 The Roman Numeral Kata [http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals](http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals)
+
+

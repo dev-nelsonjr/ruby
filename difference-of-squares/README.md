@@ -18,3 +18,5 @@ ten natural numbers and the sum of the squares is 2640:
 ## Source
 
 Problem 6 at Project Euler [http://projecteuler.net/problem=6](http://projecteuler.net/problem=6)
+
+

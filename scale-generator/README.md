@@ -66,3 +66,5 @@ Here is a table of pitches with the names of their interval distance from the to
  Dim 5th | Aug 5th | Dim 7th | Aug 6th | Dim 8ve |        |
 
 
+
+

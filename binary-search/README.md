@@ -37,3 +37,5 @@ A binary search is a dichotomic divide and conquer search algorithm.
 ## Source
 
 Wikipedia [http://en.wikipedia.org/wiki/Binary_search_algorithm](http://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+

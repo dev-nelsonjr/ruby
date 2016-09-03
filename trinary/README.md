@@ -23,3 +23,5 @@ conversion, pretend it doesn't exist and implement it yourself.
 ## Source
 
 All of Computer Science [http://www.wolframalpha.com/input/?i=binary&a=*C.binary-_*MathWorld-](http://www.wolframalpha.com/input/?i=binary&a=*C.binary-_*MathWorld-)
+
+

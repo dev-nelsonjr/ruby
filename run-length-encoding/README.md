@@ -21,3 +21,5 @@ the compressed data, which makes it a lossless data compression.
 ## Source
 
 Wikipedia [https://en.wikipedia.org/wiki/Run-length_encoding](https://en.wikipedia.org/wiki/Run-length_encoding)
+
+

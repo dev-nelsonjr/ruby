@@ -80,3 +80,5 @@ Is converted to "123,456,789"
 ## Source
 
 Inspired by the Bank OCR kata [http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR](http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR)
+
+

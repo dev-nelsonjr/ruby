@@ -15,3 +15,5 @@ the largest product for a series of 6 digits is 23520.
 ## Source
 
 A variation on Problem 8 at Project Euler [http://projecteuler.net/problem=8](http://projecteuler.net/problem=8)
+
+

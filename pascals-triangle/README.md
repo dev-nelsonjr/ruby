@@ -17,3 +17,5 @@ the right and left of the current position in the previous row.
 ## Source
 
 Pascal's Triangle at Wolfram Math World [http://mathworld.wolfram.com/PascalsTriangle.html](http://mathworld.wolfram.com/PascalsTriangle.html)
+
+

@@ -30,3 +30,5 @@ the above example white has made a connection from left to right but nobody has
 won since white didn't connect top and bottom.
 
 
+
+
